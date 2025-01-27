@@ -17,14 +17,14 @@ To run the script successfully, the following tools must be installed on the sys
 ---
 
 ## How to Use
-1. Save the script as `sprawdz.sh`.
+1. Save the script as `script.sh`.
 2. Make the script executable:
    ```bash
-   chmod +x sprawdz.sh
+   chmod +x script.sh
    ```
 3. Run the script with an input file containing a list of IP addresses or domain names:
    ```bash
-   ./sprawdz.sh input_file.txt
+   ./script.sh input_file.txt
    ```
 
 ### Input File Format
