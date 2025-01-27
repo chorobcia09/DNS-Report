@@ -122,5 +122,3 @@ Checking domain information...
 
 ---
 
-## License
-This script is licensed under the MIT License.
